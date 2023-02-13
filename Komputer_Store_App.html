@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="allCss.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Komputer Store App</title>
+</head>
+<body style>
+    <div class="mainBody">
+        <!--
+            ----------------
+            |Komputer Store|
+            ----------------
+        -->        
+        <div class="titleLine">
+            Komputer Store
+        </div>
+
+        <div class="actionsLine">
+            <table>
+                <!--
+                    -------------------------
+                    |Joe Banker|Work|Laptops|
+                    -------------------------
+                -->
+                <tr>
+                    <th>Joe Banker</th>
+                    <th>Work</th>
+                    <th>Laptops</th>
+                </tr>
+                <!--
+                    ------------------------------------------
+                    |Balance Kr.|Pay Kr.|Selected Option Menu|
+                    | - loan Kr.|       |                    |
+                    ------------------------------------------
+                -->
+                <tr>
+                    <td class="textSize">
+                        Balance
+                        <label id="balance"></label>
+                        Kr.
+                        <ul id="loans"></ul>
+                    </td>
+                    <td class="textSize">
+                        Pay
+                        <label id="pay"></label>
+                        Kr.
+                    </td>
+                    <td class="textSize">
+                        <select id="laptops"></select>
+                    </td>
+                </tr>
+                <!--
+                    -----------------------------------------------------------------
+                    |loan button|bank button, work button, repay button|Features:   |
+                    |           |                                      |feature list|
+                    -----------------------------------------------------------------
+                -->
+                <tr>
+                    <td class="textSize">
+                        <input type="button" id="loanButton" value="Get a loan" class="loanButton">
+                    </td>
+                    <td class="textSize">
+                        <input type="button" id="bankButton" value="Bank" class="bankButton">
+                        <input type="button" id="workButton" value="Work" class="workButton">
+                        <input type="button" id="repayLoanButton" value="Repay Loan" class="repayLoanButton">
+                    </td>
+                    <td class="textSize">
+                        <b>Features:</b>
+                        <ul class="no-bullets" id="features"></ul>
+                    </td>
+                </tr>
+                <!--
+                    -------------------------------
+                    | |laptop title|laptop price  |
+                    -------------------------------
+                -->
+                <tr>
+                    <th></th>
+                    <th>
+                        <label id="laptopTitle"></label>
+                    </th>
+                    <th>
+                        <label id="laptopPrice"></label>
+                    </th>
+                </tr>
+                <!--
+                    ---------------------------------------------
+                    |laptop image|laptop description|buy button |
+                    |            |                  | message   |
+                    ---------------------------------------------
+                -->
+                <tr>
+                    <td class="textSize">
+                        <img src="" alt="" id="laptopImage">
+                    </td>
+                    <td class="textSize">
+                        <label id="laptopDescription"></label>
+                    </td>
+                    <td class="textSize">
+                        <input type="button" id="buyButton" value="BUY NOW" class="buyButton">
+                        <p><label id="buyMessage"></label></p>
+                    </td>
+                </tr>
+              </table>
+        </div>
+    </div>
+    <script src="actions.js"></script>
+</body>
+</html>
