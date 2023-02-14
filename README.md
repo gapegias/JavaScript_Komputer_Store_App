@@ -1,5 +1,6 @@
 # **Komputer Store**
 Build a dynamic webpage using “vanilla” JavaScript. Follow the guidelines given below.
+
 See website here: https://gapegias.github.io
 
 ## **Website View**
