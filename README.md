@@ -1,6 +1,6 @@
 # **Komputer Store**
 Build a dynamic webpage using “vanilla” JavaScript. Follow the guidelines given below.
-See the website here: https://gapegias.github.io
+See website here: https://gapegias.github.io
 ## **Set up development environment**
 Make sure you have installed at least the following tools:
 - A text editor of your choice (Visual Studio Code, Here: https://code.visualstudio.com)
@@ -72,3 +72,6 @@ If you do not have enough money in the “Bank”, a message must be shown that 
 When you have sufficient “Money” in the account, the amount must be deducted from the bank and you must receive a message that you are now the owner of the new laptop!
 
 <img src="/pictures/laptop_info_area_success_buy.PNG">
+
+## **Website View**
+<img src="/pictures/webpage.PNG">
