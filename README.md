@@ -24,7 +24,7 @@ The "Get a loan" button will attempt to get a loan from the bank. When the Get a
 Constraints on Get a loan button:
 1. You cannot get a loan more than double of your bank balance (i.e., If you have 500 you cannot get a loan greater than 1000.)
 2. You cannot get more than one bank loan before repaying the last loan
-## **2. Work Section **
+## **2. Work Section**
 
 <img src="/pictures/work_section.PNG">
 
@@ -66,6 +66,9 @@ Example Link: https://hickory-quilled-actress.glitch.me/assets/images/1.png
 ### **4.2. Buy Now button**
 The "Buy Now" button will attempt to buy a laptop and validate whether the bank balance is sufficient to purchase the selected laptop.
 If you do not have enough money in the “Bank”, a message must be shown that you cannot afford the laptop.
+
 <img src="/pictures/laptop_info_area_deny_buy.PNG">
+
 When you have sufficient “Money” in the account, the amount must be deducted from the bank and you must receive a message that you are now the owner of the new laptop!
+
 <img src="/pictures/laptop_info_area_success_buy.PNG">
