@@ -36,7 +36,7 @@ The data for the laptops will be provided to you via a RESTful API that returns 
 The endpoint for the API is: https://hickory-quilled-actress.glitch.me/computers
 ## **4. Laptop info section**
 The Info section is where the image, name, and description as well as the price of the laptop must be displayed.
-### **4.1 Images**
+### **4.1. Images**
 The path to the image of a laptop can be found in the response. Remember to use the base URL WITHOUT the computers path.
 Example Link: https://hickory-quilled-actress.glitch.me/assets/images/1.png
 ### **4.2. Buy Now button**
