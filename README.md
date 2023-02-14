@@ -1,9 +1,9 @@
 # **Komputer Store**
 Build a dynamic webpage using “vanilla” JavaScript. Follow the guidelines given below.
-See the website here: https://gapegias.github.io/
+See the website here: https://gapegias.github.io
 ## **Set up development environment**
 Make sure you have installed at least the following tools:
-- A text editor of your choice (Visual Studio Code, Here: https://code.visualstudio.com/)
+- A text editor of your choice (Visual Studio Code, Here: https://code.visualstudio.com)
 - Live Server (https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 ## **1. The Bank Section**
 ### **1.1. Balance**
