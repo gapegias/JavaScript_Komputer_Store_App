@@ -3,8 +3,8 @@ Build a dynamic webpage using “vanilla” JavaScript. Follow the guidelines gi
 See the website here: https://gapegias.github.io/
 ## **Set up development environment**
 Make sure you have installed at least the following tools:
-- A text editor of your choice (Visual Studio Code recommended)
-- Live Server VS add-on
+- A text editor of your choice (Visual Studio Code, Here: https://code.visualstudio.com/)
+- Live Server (https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 ## **1. The Bank Section**
 ### **1.1. Balance**
 The bank shows a “Bank” balance in your currency. This is the amount available for you to buy a laptop.
