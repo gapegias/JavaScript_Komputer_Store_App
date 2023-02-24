@@ -1,7 +1,7 @@
 # **Komputer Store**
 Build a dynamic webpage using “vanilla” JavaScript. Follow the guidelines given below.
 
-See website here: https://gapegias.github.io
+See website here: https://gapegias-github-io.vercel.app
 
 ## **Website View**
 <img src="/pictures/webpage.PNG">
